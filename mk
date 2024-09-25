@@ -1,0 +1,35 @@
+#!/bin/bash
+
+cp Makefile  pagerank
+cp Makefile  dining-philosopher
+cp Makefile  binaryheap-fruit
+cp Makefile  immutable-testing
+cp Makefile  lisbon-shortest-path
+cp Makefile  vecdeque-fruit-salad
+cp Makefile  decoder-ring
+cp Makefile  community-detection
+cp Makefile  calc-cli-with-tests
+cp Makefile  lowmem-fruit-salad
+cp Makefile  immutable
+cp Makefile  data-race
+cp Makefile  graph-visualize
+cp Makefile  mutable-fruit-salad
+cp Makefile  cli-customize-fruit-salad
+cp Makefile  print-data-structs
+cp Makefile  csv-demo
+cp Makefile  hashmap-language
+cp Makefile  homophonic-cipher
+cp Makefile  hashmap-count
+cp Makefile  webcrawl-wikipedia-rayon
+cp Makefile  caesar-cipher-cli
+cp Makefile  btreeset-fruit
+cp Makefile  caesar-cipher
+cp Makefile  graph-centrality-ufc
+cp Makefile  linked-list-fruit-salad
+cp Makefile  cli-salad
+cp Makefile  btree-language
+cp Makefile  hashset-fruit
+cp Makefile  data-eng-rust-tutorial
+cp Makefile  vector-fruit-salad
+cp Makefile  sha3-dupe-detector
+cp Makefile  polars-hello-world-code-whisperer

@@ -1,0 +1,35 @@
+#!/bin/bash
+
+mkdir pagerank
+mkdir dining-philosopher
+mkdir binaryheap-fruit
+mkdir immutable-testing
+mkdir lisbon-shortest-path
+mkdir vecdeque-fruit-salad
+mkdir decoder-ring
+mkdir community-detection
+mkdir calc-cli-with-tests
+mkdir lowmem-fruit-salad
+mkdir immutable
+mkdir data-race
+mkdir graph-visualize
+mkdir mutable-fruit-salad
+mkdir cli-customize-fruit-salad
+mkdir print-data-structs
+mkdir csv-demo
+mkdir hashmap-language
+mkdir homophonic-cipher
+mkdir hashmap-count
+mkdir webcrawl-wikipedia-rayon
+mkdir caesar-cipher-cli
+mkdir btreeset-fruit
+mkdir caesar-cipher
+mkdir graph-centrality-ufc
+mkdir linked-list-fruit-salad
+mkdir cli-salad
+mkdir btree-language
+mkdir hashset-fruit
+mkdir data-eng-rust-tutorial
+mkdir vector-fruit-salad
+mkdir sha3-dupe-detector
+mkdir polars-hello-world-code-whisperer
